@@ -6,7 +6,8 @@ namespace Part_3_Hypotenuse
     {
         static void Main(string[] args)
         {
-          
+            double leg1;
+            double leg2;
         }
     }
 }
